@@ -1,58 +1,58 @@
 import images from './images';
 
-const wines = [
+const appetizers = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Pho Grilled Cheese',
+    price: '$10',
+    tags: 'Beef, caramelized onions, cheese with a shot of pho broth',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Crispy Chicken Chips',
+    price: '$10',
+    tags: 'Includes a jalapeno cream cheese dip',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Soft Tofu',
+    price: '$12',
+    tags: 'Scallion, ginger oil, youtiao, sweet soy',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Tuna Tataki',
+    price: '$11',
+    tags: 'Seared tuna, citrus sesame sauce, chili oil',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Spring Roll',
+    price: '$10',
+    tags: 'Vegetarian, crab & taro, chicken',
   },
 ];
 
-const cocktails = [
+const mains = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Beef Carpaccio - Bo Tai Chanh',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Rare ribeye, fresh herbs, onions, quail egg, crispy shallots, spicy lime chili vinaigretter',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Banh Mi",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Cilantro, cucumber, pickled carrot & daikon, chili, and a meat of your choice',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Chicken Curry Pho',
+    price: '$22',
+    tags: 'Rice noodle, aromatic coconut curry, chicken, potatoes, carrots',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Oxtail Stew',
+    price: '$25',
+    tags: 'Rice noodle, braised oxtail and brisket, potatoes, carrots',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Spicy Salmon Tacos',
+    price: '$18',
+    tags: 'Chili aioli, tobiko, wonton shell, avocado',
   },
 ];
 
@@ -79,4 +79,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { appetizers, mains, awards };

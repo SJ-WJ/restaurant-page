@@ -25,7 +25,7 @@ const Gallery = () => {
       <div className="app__gallery-content">
         <SubHeading title='Instagram' />
         <h1 className='headtext__cormorant'>Photo Gallery</h1>
-        <p className='p__opensans' style={{color: '#AAA', marginTop: '2rem'}}>Veniam, sed. Libero doloribus accusantium ab possimus facere temporibus tempora illo, odio molestiae aut, recusandae aliquam, repellat ipsa eaque dolores neque! Cumque!</p>
+        <p className='p__opensans' style={{color: '#AAA', marginTop: '2rem'}}>We invite you to connect with us on Instagram at @gericht to stay informed about the latest happenings at our establishment. In addition to mouthwatering photos of our dishes, we regularly share updates about events and promotions. We look forward to connecting with you on social media and keeping you in the loop about all things gericht.</p>
         <button type='button' className='custom__button'>View More</button>
       </div>
 

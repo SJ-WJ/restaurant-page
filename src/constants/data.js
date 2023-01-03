@@ -60,22 +60,22 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'This award is given by the Michelin Guide to restaurants that offer high-quality food at an affordable price (less than $40 for a three-course meal).',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'This award is given to up-and-coming restaurants or chefs that show exceptional promise in the culinary world.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'This award recognizes restaurants that offer exceptional hospitality in all areas, including food, service, and ambiance.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'This award honors chefs who have made a significant impact on the culinary world through their contributions and culinary achievements.',
   },
 ];
 

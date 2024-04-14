@@ -24,4 +24,4 @@ This project is intended to serve as a learning resource for building restaurant
 
 ## Credits
 
-This project was created by SJ-WJ with guidance from the tutorial by [Adrian Hajdin](https://github.com/adrianhajdin).
+This project was created by SJ-WJ with guidance from the tutorial by [Adrian Hajdin](https://github.com/adrianhajdin). Interested in how it looks? If so, here is a [live demo](https://restaurant-page-ivory.vercel.app/)
